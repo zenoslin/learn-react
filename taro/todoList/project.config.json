@@ -1,0 +1,15 @@
+{
+	"miniprogramRoot": "./dist",
+	"projectname": "todoList",
+	"description": "todo list",
+	"appid": "wx6a5f9dbc8cd937eb",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"condition": {}
+}
